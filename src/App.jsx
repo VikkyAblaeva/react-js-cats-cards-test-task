@@ -16,11 +16,11 @@ class App extends React.Component {
       this.setState({[id]: 'selectedHover'})
     }
   };
-  handleMouseEnter = (e) => {
+  handleMouseOver = (e) => {
     const id = e.target.id;
     this.state[id] === 'default' && this.setState({[id]: 'hover'});
   };
-  handleMouseLeave = (e) => {
+  handleMouseOut = (e) => {
     const id = e.target.id;
     if (this.state[id] === 'hover' || this.state[id] === 'selectedHover') {
       this.setState({[id]: 'default'});
@@ -33,8 +33,8 @@ class App extends React.Component {
           Ты сегодня кормил кота?
         </div>
         <div className='cards'
-          onMouseEnter={this.handleMouseEnter}
-          onMouseLeave={this.handleMouseLeave}
+          onMouseOver={this.handleMouseOver}
+          onMouseOut={this.handleMouseOut}
           onClick={this.handleClick}
         >
         {fields.map((cat) => {
