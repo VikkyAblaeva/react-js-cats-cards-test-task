@@ -1,6 +1,8 @@
 # react-js-cats-cards-test-task
-funny and easy cats-cards react JS (test task)
-
+funny and easy cats-cards react JS (test task)  
+  
+<a href="https://codeclimate.com/github/VikkyAblaeva/react-js-cats-cards-test-task/maintainability"><img src="https://api.codeclimate.com/v1/badges/b101a17da42bce2cc7f0/maintainability" /></a>
+  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
 :smiley_cat: :smiley_cat: :smiley_cat:
