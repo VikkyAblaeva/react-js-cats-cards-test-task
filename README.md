@@ -1,5 +1,5 @@
 # react-js-cats-cards-test-task
-funny and easy cats-cards react JS (test task)  
+funny and easy cats-cards react JS (test task for funbox.ru)  
   
 <a href="https://codeclimate.com/github/VikkyAblaeva/react-js-cats-cards-test-task/maintainability"><img src="https://api.codeclimate.com/v1/badges/b101a17da42bce2cc7f0/maintainability" /></a>
   
