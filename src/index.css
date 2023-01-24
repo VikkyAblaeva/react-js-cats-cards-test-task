@@ -40,4 +40,12 @@ body {
   justify-content: space-evenly;
   align-items: center;
   flex-wrap: wrap;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+img {
+  max-width: 90%;
+  height: auto;
+  object-fit: cover;
 }
